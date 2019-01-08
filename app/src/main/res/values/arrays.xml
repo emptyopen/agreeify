@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typeList">
+        <item>Team 1 favorite</item>
+        <item>Team 1 veto</item>
+    </string-array>
+</resources>

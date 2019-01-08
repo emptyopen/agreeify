@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agreeifyer</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="team1">Matt</string>
+    <string name="feedback_type">feedback type</string>
+    <string name="add_choice_title">Add Choice</string>
+    <string name="edit_choice_title">Edit Choice</string>
+    <string name="edit_description">Description</string>
+    <string name="edit_tags">Tags</string>
+    <string name="add_choice_button">ADD</string>
+    <string name="edit_choice_button">UPDATE</string>
+</resources>
